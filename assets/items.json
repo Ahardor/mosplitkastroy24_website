@@ -1,0 +1,254 @@
+{
+   "lit": [
+        {
+           "name": "Цветок",
+           "info1": "300х300х30",
+           "info2": "11 штук в м2",
+           "img": "assets/img/products/Plitka/Vibro/300x300_cvetok.jpeg"
+        },
+        {
+            "name": "Калифорния доска",
+            "info1": "300х300х30",
+            "info2": "11 штук в м2",
+            "img": "assets/img/products/Plitka/Vibro/300x300_doska_kalifornia.jpeg"
+         },
+         {
+            "name": "Калифорния",
+            "info1": "300х300х30",
+            "info2": "11 штук в м2",
+            "img": "assets/img/products/Plitka/Vibro/300x300_kalifornia.jpeg"
+         },
+         {
+            "name": "Паркет",
+            "info1": "300х300х30",
+            "info2": "11 штук в м2",
+            "img": "assets/img/products/Plitka/Vibro/300x300_parket.jpeg"
+         },
+         {
+            "name": "Тучка",
+            "info1": "300х300х30",
+            "info2": "11 штук в м2",
+            "img": "assets/img/products/Plitka/Vibro/300x300_tuchka.jpeg"
+         },
+         {
+            "name": "8 кирпичей",
+            "info1": "400х400х50",
+            "info2": "6 штук в м2",
+            "img": "assets/img/products/Plitka/Vibro/400x400x50_8kirpicha.jpeg"
+         },
+         {
+            "name": "Цветок",
+            "info1": "400х400х50",
+            "info2": "6 штук в м2",
+            "img": "assets/img/products/Plitka/Vibro/400x400x50_cvetok.jpeg"
+         },
+         {
+            "name": "Доски",
+            "info1": "400х400х50",
+            "info2": "6 штук в м2",
+            "img": "assets/img/products/Plitka/Vibro/400x400x50x_3doski.jpeg"
+         },
+         {
+            "name": "12 кирпичей",
+            "info1": "500х500х50",
+            "info2": "4 штук в м2",
+            "img": "assets/img/products/Plitka/Vibro/500x500x50_12kirpicha.jpeg"
+         },
+         {
+            "name": "Паутина",
+            "info1": "300х300х30",
+            "info2": "11 штук в м2",
+            "img": "assets/img/products/vibrolitaya/1pautinka.jpg"
+         },
+         {
+            "name": "Сетка",
+            "info1": "350х350х50",
+            "info2": "8 штук в м2",
+            "img": "assets/img/products/vibrolitaya/setka.jpg"
+         },
+         {
+            "name": "Волна",
+            "info1": "250х125х30",
+            "info2": "38 штук в м2",
+            "img": "assets/img/products/vibrolitaya/volna.jpg"
+         },
+         {
+            "name": "Бабочка",
+            "info1": "300х300х55",
+            "info2": "16 штук в м2",
+            "img": "assets/img/products/vibrolitaya/babochka.jpg"
+         },
+         {
+            "name": "Кирпич шершавый",
+            "info1": "100х200х30",
+            "info2": "50 штук в м2",
+            "img": "assets/img/products/vibrolitaya/irpichshershavi.jpg"
+         },
+         {
+            "name": "Катушка",
+            "info1": "280х195х50",
+            "info2": "23 штук в м2",
+            "img": "assets/img/products/vibrolitaya/katushka.jpg"
+         },
+         {
+            "name": "Клевер Краковский",
+            "info1": "300х300х45",
+            "info2": "11+11 штук в м2",
+            "img": "assets/img/products/vibrolitaya/klever2.jpg"
+         },
+         {
+            "name": "Руно",
+            "info1": "265х285х50",
+            "info2": "23 штук в м2",
+            "img": "assets/img/products/vibrolitaya/runo.jpg"
+         },
+         {
+            "name": "Черепаха",
+            "info1": "345х245х55",
+            "info2": "16 штук в м2",
+            "img": "assets/img/products/vibrolitaya/cherepaxa.jpg"
+         },
+         {
+            "name": "Соты",
+            "info1": "310х180х50",
+            "info2": "24 штук в м2",
+            "img": "assets/img/products/vibrolitaya/soti.jpg"
+         },
+         {
+            "name": "Кленовый лист",
+            "info1": "310х180х50",
+            "info2": "24 штук в м2",
+            "img": "assets/img/products/vibrolitaya/klenovi-list.jpg"
+         },
+         {
+            "name": "Зиг-заг",
+            "info1": "300х125х50",
+            "info2": "23 штук в м2",
+            "img": "assets/img/products/vibrolitaya/zigzag.jpg"
+         },
+         {
+            "name": "Двойной Г",
+            "info1": "300х245х55",
+            "info2": "16 штук в м2",
+            "img": "assets/img/products/vibrolitaya/dowbleg.jpg"
+         },
+         {
+            "name": "Цветок",
+            "info1": "245х245х50",
+            "info2": "16 штук в м2",
+            "img": "assets/img/products/vibrolitaya/Cvetok.jpeg"
+         },
+         {
+            "name": "Мостик",
+            "info1": "300х300х30",
+            "info2": "11 штук в м2",
+            "img": "assets/img/products/vibrolitaya/mostik.jpg"
+         },
+         {
+            "name": "Глаза",
+            "info1": "245х180х50",
+            "info2": "11 штук в м2",
+            "img": "assets/img/products/vibrolitaya/glaza.jpg"
+         },
+         {
+            "name": "Эко",
+            "info1": "260х260х60",
+            "info2": "14 штук в м2",
+            "img": "assets/img/products/Elements/vibro/260x260x60_eko.jpeg"
+         }
+   ],
+   "press": [
+      {
+         "name": "Брусчатка",
+         "info1": "200х100х60",
+         "info2": "50 штук в м2",
+         "img": "assets/img/products/Plitka/Press/bruschatka.jpeg"
+      },
+      {
+          "name": "Английский\nбулыжник",
+          "info1": "250х125х60",
+          "info2": "32 штук в м2",
+          "img": "assets/img/products/Plitka/Press/angliskybulijnik.jpg"
+      },
+      {
+          "name": "Тактильная плитка",
+          "info1": "500х500х50",
+          "info2": "4 штук в м2",
+          "img": "assets/img/products/vibrolitaya/taktilnaya.jpg"
+      }
+   ],
+   "elem": [
+      {
+         "name": "Водосток",
+         "info1": "500х160х50",
+         "info2": "",
+         "img": "assets/img/products/Plitka/Vibro/300x300_cvetok.jpeg"
+      },
+      {
+          "name": "Калифорния доска",
+          "info1": "300х300х30",
+          "info2": "",
+          "img": "assets/img/products/vibrolitaya/vodostok.jpg"
+      },
+      {
+          "name": "Бордюр вибролитой",
+          "info1": "500х300х150",
+          "info2": "",
+          "img": "assets/img/products/vibrolitaya/bordyur.png"
+      },
+      {
+          "name": "Бордюр вибролитой",
+          "info1": "1000х200х80",
+          "info2": "",
+          "img": "assets/img/products/Elements/vibro/1000x200x80.jpeg"
+      },
+      {
+          "name": "Бордюр вибролитой",
+          "info1": "500х200х40",
+          "info2": "",
+          "img": "assets/img/products/Elements/vibro/500x200x40.jpeg"
+      },
+      {
+          "name": "Бордюр вибролитой",
+          "info1": "500х200х70",
+          "info2": "",
+          "img": "assets/img/products/Elements/vibro/500x200x70.jpeg"
+      },
+      {
+          "name": "Бордюр\nвибропрессованный",
+          "info1": "500x200x70",
+          "info2": "",
+          "img": "assets/img/products/Elements/press/500x200x70.jpeg"
+      },
+      {
+          "name": "Бордюр\nвибропрессованный",
+          "info1": "1000x200x70",
+          "info2": "",
+          "img": "assets/img/products/Elements/press/1000x200x70.jpeg"
+      },
+      {
+          "name": "Бордюр\nвибропрессованный",
+          "info1": "1000x300x150",
+          "info2": "",
+          "img": "assets/img/products/Elements/press/1000x300x150.jpeg"
+      },
+      {
+          "name": "Ноги",
+          "info1": "",
+          "info2": "",
+          "img": "assets/img/products/Elements/vibro/nojki.jpeg"
+      },
+      {
+          "name": "Ступени",
+          "info1": "",
+          "info2": "",
+          "img": "assets/img/products/Elements/vibro/stupen.jpeg"
+      },
+      {
+          "name": "Облицовка цокольная",
+          "info1": "400x200x150",
+          "info2": "",
+          "img": "assets/img/products/vibrolitaya/oblicovka.jpg"
+      }
+   ]
+}
